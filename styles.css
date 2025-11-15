@@ -106,7 +106,7 @@ nav a:hover {
 }
 
 
-    .hero-avatar {
+.hero-avatar  {
   width: 150px;
   height: 150px;
   object-fit: cover;
